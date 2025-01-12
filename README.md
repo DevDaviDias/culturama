@@ -1,5 +1,5 @@
 
- ## https://devdavidias.github.io/culturama/
+ ## Vizualizar projeto https://devdavidias.github.io/culturama/
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `HTML`: O HTML tem um papel fundamental para criar as estruturas da página que formam o Culturama. 
