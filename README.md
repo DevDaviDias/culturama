@@ -18,8 +18,4 @@
   - `align` e `justify`;
  
   
-Neste repositório você tem acesso a todo o material produzido no curso.
 
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
